@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="87.8">
+    <testcase classname="Kullanıcı A101 web sitesine üye olmadan alışveriş yapabilir" name="Kullanıcı geçerli bir email ile alışverişini tamamlar" time="87.406">
+        <system-out>
+            <![CDATA[Given Kullanıcı "a101Url" ana sayfasına gider...............................passed
+Then Kullanıcı çerezleri kabul eder.........................................passed
+Then Kullanıcı Giyim & Aksesuar butonuna tıklar.............................passed
+And Kullanıcı Kadın İç Giyim butonuna tıklar................................passed
+And Kullanıcı Dizaltı Çorap butonuna tıklar.................................passed
+And Kullanıcı ilk ürüne tıklar..............................................passed
+And Kullanıcı ürün renginin SİYAH olduğunu doğrular.........................passed
+And Kullanıcı Sepete ekle butonuna tıklar...................................passed
+And Kullanıcı Sepeti Görüntüle butonuna tıklar..............................passed
+And Kullanıcı Sepeti Onayla butonuna tıklar.................................passed
+And Kullanıcı ÜYE OLMADAN DEVAM ET butonuna tıklar..........................passed
+And Kullanıcı E-mail ekranını görür ve geçerli bir mail adresi girer........passed
+And Kullanıcı Devam et butonuna tıklar......................................passed
+And Kullanıcı Yeni adres oluştur butonuna tıklar............................passed
+And Kullanıcı gerekli bilgileri doldurur ve kaydet butonuna tıklar..........passed
+And Kullanıcı bir kargo firması seçer.......................................passed
+And Kullanıcı kaydet ve devam et butonuna tıklar............................passed
+And Kullanıcı ödeme ekranına gidildiğini doğrular...........................passed
+And Kullanıcı Siparişi Tamamla butonuna tıklar..............................passed
+And Kullanıcı Lütfen kart seçin veya kart bilgisi girin. yazısını görür.....passed
+And Kullanıcı sayfayı kapatır...............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
